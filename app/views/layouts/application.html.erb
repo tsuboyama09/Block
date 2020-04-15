@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8">
+    <title>Block</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag "block.js" %>
+    
+    <%# index.html.erb %>
+    <link href="/assets/css.css/" rel="stylesheet" type="text/css">
+    
+    <%# new.html.erb %>
+    <%# <meta name="viewport" content="width=640, user-scalable=no">
+    <style>  * {margin: 0; padding: 0;} </style>
+    <script type="text/javascript" src="/assets/block.js"></script> %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

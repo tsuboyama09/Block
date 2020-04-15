@@ -1,0 +1,76 @@
+body {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-shadow: 0 0 10px white;
+  padding-top: 100px;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+
+.blinking {
+  /* 文字の後ろが少し光る */
+  text-shadow: 0 0 10px white;
+  padding: 600px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  /* 文字の点滅 */
+  animation:blink 1s ease-in-out infinite alternate;
+}
+/* 点滅する透明度 */
+@keyframes blink{
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+table {
+  /* 隣接するボーダーラインを重ねあわせて表示するよう指定 */
+  border-collapse: collapse;  
+}
+td {
+  /*border: 1px solid #f0f0f0;*/
+  width: 2px;
+  height: 2px;
+}
+.c1 {
+  background-color: #db2900;
+}
+.c2 {
+  background-color: #8a7301;
+}
+.c3 {
+  background-color: #ffa33c;
+}
+.c4 {
+  background-color: #AF7D4E;
+}
+.c5 {
+  background-color: #794632;
+}
+.c6 {
+  background-color: #080505;
+}
+
+.mario  {
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .animation {
+  animation-name: animation-haniwaman;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+}
+@keyframes animation-haniwaman {
+  0% {width: 100px;}
+  100% {width: 100%;}
+} */
