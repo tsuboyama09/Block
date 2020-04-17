@@ -7,7 +7,7 @@ Block breaking game
 # START
 
 # Method of operation
-Drag: You can operate the paddle by dragging left or right on the screen
+Trackpad: Tap on the screen to control the paddle
 Cursor: You can operate the paddle by pressing left and right
 
 # Features you want to add
