@@ -5,6 +5,7 @@ Block Breaking
 
 Block breaking game
 # START
+![](https://i.gyazo.com/3b6abc4d4330ab7c6a7215592f4d1e3a.png)
 
 # Method of operation
 Trackpad: Tap on the screen to control the paddle
