@@ -49,9 +49,9 @@ test:
 #
 production:
   <<: *default
-  database: Block_production
-  username: Block
-  password: <%= ENV['BLOCK_DATABASE_PASSWORD'] %>
+  # database: Block_production
+  # username: Block
+  # password: <%= ENV['BLOCK_DATABASE_PASSWORD'] %>
   adapter: postgresql
   encoding: unicode
   pool: 5
