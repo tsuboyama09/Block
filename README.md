@@ -19,7 +19,5 @@ Trackpad: Tap on the screen to control the paddle
 Cursor: You can operate the paddle by pressing left and right
 
 # Features you want to add
-BGM,Sound effect,Pause function
-Animation on the start screen
-Bug that the game screen is not displayed unless the page load button is pressed
+BGM,Sound effect,Pause function,Animation on the start screen
 
