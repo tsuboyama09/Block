@@ -1,4 +1,3 @@
-# README
 
 # Name
 Block Breaking
@@ -15,8 +14,8 @@ Click to start the game
 
 
 # Method of operation
-Trackpad: Tap on the screen to control the paddle
-Cursor: You can operate the paddle by pressing left and right
+- Trackpad: Tap on the screen to control the paddle
+- Cursor: You can operate the paddle by pressing left and right
 
 # Features you want to add
 BGM,Sound effect,Pause function,Animation on the start screen
