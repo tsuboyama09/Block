@@ -3,7 +3,6 @@
 # Name
 Block Breaking
 
-Block breaking game
 # START
 Click to transition to the game screen
 ![](https://i.gyazo.com/80a5c207720ed8e22b6d1e163ad44afd.png)
@@ -20,4 +19,4 @@ Trackpad: Tap on the screen to control the paddle
 Cursor: You can operate the paddle by pressing left and right
 
 # Features you want to add
-BGM,Sound effect,Score post,Pause function
+BGM,Sound effect,Pause function
