@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Name
+Block Breaking
 
-Things you may want to cover:
+Block breaking game
+# START
 
-* Ruby version
+# Method of operation
+Drag: You can operate the paddle by dragging left or right on the screen
+Cursor: You can operate the paddle by pressing left and right
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Features you want to add
+BGM,Sound effect,Score post,Pause function
