@@ -12,7 +12,7 @@ Press the page load button
 ![](https://i.gyazo.com/e5427819cb1c337d927912c89d89094d.png)
 
 Click to start the game
-![](https://i.gyazo.com/3b6abc4d4330ab7c6a7215592f4d1e3a.png)
+![fbcf324a53c438fed9813b3d860b0ab2](https://user-images.githubusercontent.com/61174442/79592639-37e0d800-8115-11ea-8279-f8234d4ab13e.gif)
 
 
 # Method of operation
